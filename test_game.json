@@ -1,0 +1,33 @@
+{
+  "board_size": 5,
+  "special_tiles": {
+    "double_letter": [
+      "(1,2)"
+    ],
+    "triple_letter": [
+      "(4,1)",
+      "(1,4)"
+    ],
+    "double_word": [
+      "(3,3)"
+    ],
+    "triple_word": [
+      "(5,5)"
+    ],
+    "starting_loc": [
+      "(1,1)"
+    ]
+  },
+  "game_tiles": [
+    {
+      "letter": "A",
+      "points": 1,
+      "count": 2
+    },
+    {
+      "letter": "B",
+      "points": 3,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+<{scrabble,command,gameState,player,dictionary,main}.ml>: coverage
+<test.{byte,native}>: coverage
+true: package(csv),package(ounit2),package(ANSITerminal),package(yojson), package(bisect_ppx), package(qcheck), package(str)

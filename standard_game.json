@@ -1,0 +1,213 @@
+{
+  "board_size": 15,
+  "special_tiles": {
+    "double_letter": [
+      "(1,4)",
+      "(1,12)",
+      "(3,7)",
+      "(3,9)",
+      "(4,1)",
+      "(4,8)",
+      "(4,15)",
+      "(7,3)",
+      "(7,7)",
+      "(7,9)",
+      "(7,13)",
+      "(8,4)",
+      "(8,12)",
+      "(9,3)",
+      "(9,7)",
+      "(9,9)",
+      "(9,13)",
+      "(12,1)",
+      "(12,8)",
+      "(12,15)",
+      "(13,7)",
+      "(13,9)",
+      "(15,4)",
+      "(15,12)"
+    ],
+    "triple_letter": [
+      "(2,6)",
+      "(2,10)",
+      "(6,2)",
+      "(6,6)",
+      "(6,10)",
+      "(6,14)",
+      "(10,2)",
+      "(10,6)",
+      "(10,10)",
+      "(10,14)",
+      "(14,6)",
+      "(14,10)"
+    ],
+    "double_word": [
+      "(2,2)",
+      "(3,3)",
+      "(4,4)",
+      "(5,5)",
+      "(11,11)",
+      "(12,12)",
+      "(13,13)",
+      "(14,14)",
+      "(2,14)",
+      "(3,13)",
+      "(4,12)",
+      "(5,11)",
+      "(11,5)",
+      "(12,4)",
+      "(13,3)",
+      "(14,2)"
+    ],
+    "triple_word": [
+      "(1,1)",
+      "(1,8)",
+      "(1,15)",
+      "(8,1)",
+      "(8,15)",
+      "(15,1)",
+      "(15,8)",
+      "(15,15)"
+    ],
+    "starting_loc": [
+      "(8,8)"
+    ]
+  },
+  "game_tiles": [
+    {
+      "letter": "A",
+      "points": 1,
+      "count": 9
+    },
+    {
+      "letter": "B",
+      "points": 3,
+      "count": 2
+    },
+    {
+      "letter": "C",
+      "points": 3,
+      "count": 2
+    },
+    {
+      "letter": "D",
+      "points": 2,
+      "count": 4
+    },
+    {
+      "letter": "E",
+      "points": 1,
+      "count": 12
+    },
+    {
+      "letter": "F",
+      "points": 4,
+      "count": 2
+    },
+    {
+      "letter": "G",
+      "points": 2,
+      "count": 3
+    },
+    {
+      "letter": "H",
+      "points": 4,
+      "count": 2
+    },
+    {
+      "letter": "I",
+      "points": 1,
+      "count": 9
+    },
+    {
+      "letter": "J",
+      "points": 8,
+      "count": 1
+    },
+    {
+      "letter": "K",
+      "points": 5,
+      "count": 1
+    },
+    {
+      "letter": "L",
+      "points": 1,
+      "count": 4
+    },
+    {
+      "letter": "M",
+      "points": 3,
+      "count": 2
+    },
+    {
+      "letter": "N",
+      "points": 1,
+      "count": 6
+    },
+    {
+      "letter": "O",
+      "points": 1,
+      "count": 8
+    },
+    {
+      "letter": "P",
+      "points": 3,
+      "count": 2
+    },
+    {
+      "letter": "Q",
+      "points": 10,
+      "count": 1
+    },
+    {
+      "letter": "R",
+      "points": 1,
+      "count": 6
+    },
+    {
+      "letter": "S",
+      "points": 1,
+      "count": 4
+    },
+    {
+      "letter": "T",
+      "points": 1,
+      "count": 6
+    },
+    {
+      "letter": "U",
+      "points": 1,
+      "count": 4
+    },
+    {
+      "letter": "V",
+      "points": 4,
+      "count": 2
+    },
+    {
+      "letter": "W",
+      "points": 4,
+      "count": 2
+    },
+    {
+      "letter": "X",
+      "points": 8,
+      "count": 1
+    },
+    {
+      "letter": "Y",
+      "points": 4,
+      "count": 2
+    },
+    {
+      "letter": "Z",
+      "points": 10,
+      "count": 1
+    },
+    {
+      "letter": "/",
+      "points": 0,
+      "count": 2
+    }
+  ]
+}
